@@ -1,0 +1,1 @@
+# my_ajs_homework_map_settings
