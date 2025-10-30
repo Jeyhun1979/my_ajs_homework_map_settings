@@ -1,1 +1,2 @@
 # my_ajs_homework_map_settings
+[![CI Pipeline](https://github.com/Jeyhun1979/my_ajs_homework_map_settings/actions/workflows/main.yml/badge.svg)](https://github.com/Jeyhun1979/my_ajs_homework_map_settings/actions/workflows/main.yml)
